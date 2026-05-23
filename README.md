@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppoojitha76@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916305421843)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ppoojitha76&label=Profile%20Views&color=6C63FF&style=flat)
 
 </div>
 
@@ -101,13 +101,15 @@ analyst = {
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ppoojitha76&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoojitha76E&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppoojitha76&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
 ## 🌱 Currently
+
+- 🔭 Working as **Data Analyst Intern @ Rooman Technologies**
 - 📚 Learning **advanced Power BI DAX** and data modelling
 - 💬 Ask me about **SQL, Power BI dashboards, Excel analytics, or Python for data**
 - 📫 Reach me: **ppoojitha76@gmail.com**
@@ -126,5 +128,4 @@ analyst = {
 *"Data is the new oil — and I'm here to refine it 🔥"*
 
 </div>
-
 
