@@ -86,7 +86,7 @@ analyst = {
 
 ---
 
-## 💼 Work Experience
+## 💼 Internship
 
 <table width="100%">
   <tr>
@@ -174,7 +174,6 @@ analyst = {
 
 | | |
 |---|---|
-| 🔭 **Working** | Data Analyst Intern @ Rooman Technologies, Bengaluru |
 | 📚 **Learning** | Advanced Power BI DAX, Data Modelling & Storytelling with Data |
 | 🎯 **Goal** | Full-time Data Analyst role after graduation in 2026 |
 | 💬 **Ask me about** | SQL · Power BI · Excel Analytics · Python for Data |
