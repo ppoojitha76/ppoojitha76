@@ -1,178 +1,179 @@
 <div align="center">
 
-# 👋 Hi, I'm CH Poojitha
+# CH Poojitha
 
-### Data Analyst | SQL • Power BI • Python • Excel
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+### Data Analyst | SQL | Power BI | Python | Excel
 
 <p>
-  📍 Tirupati, Andhra Pradesh, India
-  &nbsp; • &nbsp;
-  🎓 B.Tech CSE | 2026
-  &nbsp; • &nbsp;
-  💼 Open to Data Analyst Opportunities
+  <a href="https://github.com/ppoojitha76">GitHub</a> •
+  <a href="https://www.linkedin.com/in/ch-poojithadata-analyst">LinkedIn</a> •
+  <a href="mailto:ppoojitha76@gmail.com">Email</a>
 </p>
-
-<p>
-  <a href="https://www.linkedin.com/in/ch-poojithadata-analyst">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ppoojitha76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ppoojitha76">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=ppoojitha76&label=Profile%20Views&color=6C63FF&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I am an entry-level Data Analyst with hands-on experience in SQL, Power BI, Python, and Excel.
 
-I work with data cleaning, exploratory data analysis, KPI analysis, dashboard development, and business-focused reporting.
-
-I enjoy working with raw datasets, identifying patterns, validating results, and presenting insights through clear and interactive dashboards.
-
-'''python
-analyst = {
-    "name": "CH Poojitha",
-    "role": "Data Analyst",
-    "education": "B.Tech Computer Science Engineering",
-    "graduation": 2026,
-    "skills": [
-        "SQL",
-        "Power BI",
-        "Python",
-        "Excel"
-    ],
-    "focus": [
-        "Data Analysis",
-        "Data Cleaning",
-        "Dashboard Development",
-        "KPI Analysis"
-    ]
-}
----
-
-## 🛠️ Skills
-
-### 📊 Data Analysis
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-**Data Cleaning • Exploratory Data Analysis • Data Validation • KPI Analysis**
-
-### 📈 Business Intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
-</p>
-
-**Data Modelling • DAX Measures • KPI Development • Interactive Dashboards**
-
-### 📗 Microsoft Excel
-
-<p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
-
-**Pivot Tables • Pivot Charts • Slicers • Timeline • XLOOKUP • Data Cleaning • Dashboards**
-
-### 🐍 Python Libraries
-
-**Pandas • NumPy • Matplotlib • Seaborn**
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-**Joins • GROUP BY • HAVING • Subqueries • CTEs • Window Functions**
-
-### 🔧 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+I work on data cleaning, exploratory data analysis, KPI development, dashboard creation, and business reporting. I enjoy turning raw data into meaningful insights that support better business decisions.
 
 ---
 
-## 💼 Internship
+## Technical Skills
 
-### Data Analyst Intern | Rooman Technologies Pvt Ltd
-
-📍 Bengaluru, India
-
-📅 May 2025 – Present
-
-- Worked on data analysis and reporting tasks.
-- Worked with business data to support reporting and analysis.
-- Developed reports and dashboards.
-- Applied data cleaning and analysis techniques.
-- Used SQL, Power BI, Excel, and Python for data-related tasks.
-- Gained practical exposure to data workflows in a professional environment.
+| Category | Skills |
+|---|---|
+| SQL | MySQL, PostgreSQL, Joins, Subqueries, CTEs, Window Functions |
+| Power BI | Power Query, DAX, Data Modelling, KPI Development, Dashboards |
+| Python | Pandas, NumPy, Matplotlib, Seaborn |
+| Excel | Pivot Tables, Pivot Charts, Slicers, XLOOKUP, Dashboards |
+| Tools | Jupyter Notebook, VS Code, Git, GitHub |
 
 ---
 
-## 🚀 Featured Projects
+## Internship
 
-<table width="100%">
-<tr>
+### Data Analyst Intern
+**Rooman Technologies Pvt Ltd, Bengaluru**
 
-<td width="50%" valign="top">
+**May 2025 – Present**
 
-### 📱 PhonePe Transaction Analytics
+* Data analysis and reporting
+* Data cleaning and transformation
+* Dashboard development
+* SQL and Excel based analysis
+* Power BI reporting and visualization
+* Practical exposure to business data workflows
 
-**Power BI • DAX • Power Query**
+---
 
-Analyzed digital payment transactions to understand transaction volume, transaction value, geographic performance, and payment trends.
+## Featured Projects
 
-**Key Work**
+### 1. PhonePe Transaction Analytics
 
-- Created KPI cards for transaction metrics
-- Analyzed transaction amount and transaction volume
-- Compared state and district-level performance
-- Analyzed transaction types and trends
-- Created DAX measures
-- Built an interactive Power BI dashboard
+**Power BI | DAX | Power Query**
 
-<p>
-  <a href="https://github.com/ppoojitha76/phonepe-transaction-analytics">
-    🔗 View Project
-  </a>
-</p>
+Analyzed digital payment transactions across states, districts, transaction types, and time periods.
 
-</td>
+**Highlights**
 
-<td width="50%" valign="top">
+* Transaction amount and transaction volume analysis
+* State and district level analysis
+* Transaction type analysis
+* KPI development using DAX
+* Interactive Power BI dashboard
 
-### 👥 HR Analytics Dashboard
+[View Project](https://github.com/ppoojitha76/phonepe-transaction-analytics)
 
-**Power BI • DAX • Power Query**
+---
 
-Built an interactive HR dashboard to analyze employee information, workforce patterns, attrition, and department-level
+### 2. HR Analytics Dashboard
+
+**Power BI | DAX | Power Query**
+
+Developed an interactive HR dashboard to analyze employee data, workforce patterns, departments, and attrition.
+
+**Highlights**
+
+* HR KPI development
+* Employee and department analysis
+* Attrition analysis
+* Interactive filters and slicers
+* DAX based calculations
+
+[View Project](https://github.com/ppoojitha76/HR-Analytics-Dashboard)
+
+---
+
+### 3. Supply Chain Analytics Dashboard
+
+**Microsoft Excel | Pivot Tables | Pivot Charts**
+
+Developed an Excel dashboard to analyze supply chain and business performance.
+
+**Highlights**
+
+* KPI cards
+* Pivot Tables and Pivot Charts
+* Slicers and Timeline
+* Sales and operational analysis
+* Interactive dashboard
+
+---
+
+### 4. Marketing Campaign Analysis
+
+**Python | Pandas | NumPy | Matplotlib**
+
+Performed data cleaning and exploratory analysis on marketing campaign data.
+
+**Highlights**
+
+* Data cleaning
+* Missing value handling
+* Exploratory data analysis
+* Campaign performance analysis
+* Data visualization
+
+---
+
+### 5. Food Delivery Management System
+
+**SQL | MySQL**
+
+Designed a relational database and solved business analysis problems using SQL.
+
+**Highlights**
+
+* Database design
+* Joins
+* Aggregations
+* GROUP BY and HAVING
+* Subqueries
+* CTEs
+* Window Functions
+
+---
+
+## Education
+
+### B.Tech in Computer Science Engineering
+
+**Sree Rama Engineering College**  
+Affiliated to JNTU Anantapur
+
+**2022 – 2026**
+
+---
+
+## Career Focus
+
+Currently seeking opportunities as:
+
+**Data Analyst | Junior Data Analyst | Data Analyst Intern**
+
+Interested in working on data analysis, reporting, business intelligence, and dashboard development.
+
+---
+
+## Let's Connect
+
+**GitHub:**  
+https://github.com/ppoojitha76
+
+**LinkedIn:**  
+https://www.linkedin.com/in/ch-poojithadata-analyst
+
+**Email:**  
+ppoojitha76@gmail.com
+
+---
+
+<div align="center">
+
+**Turning data into clear and actionable insights.**
+
+</div>
