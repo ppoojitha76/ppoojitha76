@@ -47,7 +47,7 @@ I work with data cleaning, exploratory data analysis, KPI analysis, dashboard de
 
 I enjoy working with raw datasets, identifying patterns, validating results, and presenting insights through clear and interactive dashboards.
 
-```python
+'''python
 analyst = {
     "name": "CH Poojitha",
     "role": "Data Analyst",
@@ -66,3 +66,113 @@ analyst = {
         "KPI Analysis"
     ]
 }
+---
+
+## 🛠️ Skills
+
+### 📊 Data Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+**Data Cleaning • Exploratory Data Analysis • Data Validation • KPI Analysis**
+
+### 📈 Business Intelligence
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
+</p>
+
+**Data Modelling • DAX Measures • KPI Development • Interactive Dashboards**
+
+### 📗 Microsoft Excel
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+**Pivot Tables • Pivot Charts • Slicers • Timeline • XLOOKUP • Data Cleaning • Dashboards**
+
+### 🐍 Python Libraries
+
+**Pandas • NumPy • Matplotlib • Seaborn**
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**Joins • GROUP BY • HAVING • Subqueries • CTEs • Window Functions**
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Internship
+
+### Data Analyst Intern | Rooman Technologies Pvt Ltd
+
+📍 Bengaluru, India
+
+📅 May 2025 – Present
+
+- Worked on data analysis and reporting tasks.
+- Worked with business data to support reporting and analysis.
+- Developed reports and dashboards.
+- Applied data cleaning and analysis techniques.
+- Used SQL, Power BI, Excel, and Python for data-related tasks.
+- Gained practical exposure to data workflows in a professional environment.
+
+---
+
+## 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 📱 PhonePe Transaction Analytics
+
+**Power BI • DAX • Power Query**
+
+Analyzed digital payment transactions to understand transaction volume, transaction value, geographic performance, and payment trends.
+
+**Key Work**
+
+- Created KPI cards for transaction metrics
+- Analyzed transaction amount and transaction volume
+- Compared state and district-level performance
+- Analyzed transaction types and trends
+- Created DAX measures
+- Built an interactive Power BI dashboard
+
+<p>
+  <a href="https://github.com/ppoojitha76/phonepe-transaction-analytics">
+    🔗 View Project
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👥 HR Analytics Dashboard
+
+**Power BI • DAX • Power Query**
+
+Built an interactive HR dashboard to analyze employee information, workforce patterns, attrition, and department-level
